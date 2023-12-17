@@ -1,0 +1,4 @@
+﻿  ProjectC++.cpp
+D:\personal\itstep\С++\9. Проект\Homework\ProjectC++\ProjectC++\Useful.h(79,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\personal\itstep\С++\9. Проект\Homework\ProjectC++\ProjectC++\ProjectC++.cpp(24,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectC++.vcxproj -> D:\personal\itstep\С++\9. Проект\Homework\ProjectC++\x64\Debug\ProjectC++.exe
